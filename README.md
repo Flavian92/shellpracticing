@@ -1,0 +1,2 @@
+# shellpracticing
+learning shell
